@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uhaa-02/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Uhaa-02/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uhaa-02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Uhaa-02/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
@@ -35,10 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Uhaa-02/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uhaa-02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Uhaa-02/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uhaa-02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Uhaa-02/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
