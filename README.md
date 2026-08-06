@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Uhaa-02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Uhaa-02/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Uhaa-02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
