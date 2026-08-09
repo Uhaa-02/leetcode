@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Uhaa-02/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Uhaa-02/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uhaa-02/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Uhaa-02/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Uhaa-02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Uhaa-02/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Uhaa-02/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uhaa-02/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Uhaa-02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Uhaa-02/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uhaa-02/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Uhaa-02/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
