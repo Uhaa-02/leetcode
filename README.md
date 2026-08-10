@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Uhaa-02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Uhaa-02/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Uhaa-02/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uhaa-02/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,8 +138,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
