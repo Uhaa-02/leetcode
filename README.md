@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Uhaa-02/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uhaa-02/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Uhaa-02/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Uhaa-02/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Uhaa-02/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Uhaa-02/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Uhaa-02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Uhaa-02/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Uhaa-02/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uhaa-02/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Uhaa-02/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Uhaa-02/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Uhaa-02/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
