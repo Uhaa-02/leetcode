@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uhaa-02/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Uhaa-02/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Uhaa-02/leetcode/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/Uhaa-02/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Uhaa-02/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uhaa-02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Uhaa-02/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Uhaa-02/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Uhaa-02/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Uhaa-02/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
