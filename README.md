@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Uhaa-02/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Uhaa-02/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Uhaa-02/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Uhaa-02/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Uhaa-02/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uhaa-02/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Uhaa-02/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Uhaa-02/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Uhaa-02/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Uhaa-02/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Uhaa-02/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Uhaa-02/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
