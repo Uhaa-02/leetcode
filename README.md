@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Uhaa-02/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Uhaa-02/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Uhaa-02/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Uhaa-02/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Uhaa-02/leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Uhaa-02/leetcode/tree/master/0647-palindromic-substrings) |
