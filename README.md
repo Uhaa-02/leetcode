@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Uhaa-02/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Uhaa-02/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Uhaa-02/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uhaa-02/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Uhaa-02/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Uhaa-02/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Uhaa-02/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Uhaa-02/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Uhaa-02/leetcode/tree/master/0075-sort-colors) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uhaa-02/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Uhaa-02/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Uhaa-02/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Uhaa-02/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Uhaa-02/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Uhaa-02/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Uhaa-02/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uhaa-02/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Uhaa-02/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Uhaa-02/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Uhaa-02/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Uhaa-02/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Uhaa-02/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Uhaa-02/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uhaa-02/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Uhaa-02/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Uhaa-02/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Uhaa-02/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
