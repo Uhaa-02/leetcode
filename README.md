@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Uhaa-02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Uhaa-02/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Uhaa-02/leetcode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/Uhaa-02/leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Uhaa-02/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Uhaa-02/leetcode/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uhaa-02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Uhaa-02/leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Uhaa-02/leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Uhaa-02/leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Uhaa-02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
