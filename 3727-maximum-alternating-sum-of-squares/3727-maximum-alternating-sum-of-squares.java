@@ -9,25 +9,25 @@ class Solution {
             sq[i] = (long) nums[i] * nums[i];
             total += sq[i];
         }
-        select(sq, h);  // quickselect: the smallest half in front, any order
+        select(sq, h);  
         long small = 0;
         for (int i = 0; i < h; i++) small += sq[i];
-        return total - 2 * small;  // add everything, then flip the smallest half to minus
+        return total - 2 * small;  
     }
 
-    private void select(long[] a, int k) {  // put the k smallest values in a[0..k), like C++ nth_element
+    private void select(long[] a, int k) {  
         int lo = 0, hi = a.length - 1;
         while (lo < hi) {
             long pivot = a[lo + random.nextInt(hi - lo + 1)];
-            int lt = lo, i = lo, gt = hi;  // a[lo..lt) < pivot, a[lt..i) == pivot, a(gt..hi] > pivot
+            int lt = lo, i = lo, gt = hi; 
             while (i <= gt) {
                 if (a[i] < pivot) swap(a, lt++, i++);
                 else if (a[i] > pivot) swap(a, i, gt--);
                 else i++;
             }
-            if (k < lt) hi = lt - 1;  // the boundary is among the smaller values
-            else if (k > gt + 1) lo = gt + 1;  // the boundary is among the bigger values
-            else return;  // the boundary falls on the pivot copies: done
+            if (k < lt) hi = lt - 1;  
+            else if (k > gt + 1) lo = gt + 1; 
+            else return;  
         }
     }
 
